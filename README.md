@@ -7,3 +7,6 @@ https://wizradgames.github.io/magic-items/Xanathar's%20Guide%20to%20Everything.c
 
 ### Explorer's Guide to Wildemount
 https://wizradgames.github.io/magic-items/Explorer's%20Guide%20to%20Wildemount.collection
+
+### The Book of Many Things
+https://wizradgames.github.io/magic-items/The%20Book%20of%20Many%20Things.collection
